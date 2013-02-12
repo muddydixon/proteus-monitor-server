@@ -8,7 +8,6 @@ var express = require('express')
 , http = require('http')
 , path = require('path')
 , domain = require('domain')
-, path = require('path')
 , fs = require('fs')
 , manager = require('./lib/server/manager')
 ;
